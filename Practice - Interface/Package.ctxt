@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Package()
+comment1.params=weight
+comment1.target=Package(double)
+comment2.params=
+comment2.target=java.lang.String\ wasOrdered()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

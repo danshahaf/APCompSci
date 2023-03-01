@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Bee
+comment1.params=
+comment1.target=Bee()
+comment2.params=speed\ name\ xDestination\ yDestination
+comment2.target=Bee(int,\ java.lang.String,\ int,\ int)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=double\ calcTripDistance()
+comment5.params=
+comment5.target=double\ calcTripTravelTime()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

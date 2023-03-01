@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SparseArray()
+comment1.params=
+comment1.target=int\ getNumRows()
+comment2.params=
+comment2.target=int\ getNumCols()
+comment3.params=row\ col
+comment3.target=int\ getValueAt(int,\ int)
+comment4.params=entry
+comment4.target=void\ addEntry(SparseArrayEntry)
+comment5.params=col
+comment5.target=void\ removeColumn(int)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

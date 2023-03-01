@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Geometry()
+comment1.params=teacher\ enrollment\ proofs
+comment1.target=Geometry(java.lang.String,\ int,\ boolean)
+comment2.params=
+comment2.target=java.lang.String\ checkEnrollment()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Striker2
+comment0.text=\ goals\:\n\ \n//reflection\ of\ disk\ from\ Striker\n\nAI\ behavior\nsliding\ of\ disk\nrecords\ and\ highScores(use\ arrayList)\n
+comment1.params=
+comment1.target=Striker2()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

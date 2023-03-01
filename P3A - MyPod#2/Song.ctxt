@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=titleArg\ priceArg\ artistArg\ yearMadeArg\ lengthInSec
+comment0.target=Song(java.lang.String,\ double,\ java.lang.String,\ int,\ int)
+comment0.text=public\ Song()\ {\r\n\ \ \ \ \ \ \ \ title\ \=\ "Let\ it\ be";\r\n\ \ \ \ \ \ \ \ price\ \=\ 1.29;\r\n\ \ \ \ \ \ \ \ artist\ \=\ "Beatles";\r\n\ \ \ \ \ \ \ \ yearMade\ \=\ 1970;\r\n\ \ \ \ \ \ \ \ lengthInSecs\ \=\ 190;\r\n}
+comment1.params=
+comment1.target=int\ getLengthInSec()
+comment2.params=newSeconds
+comment2.target=void\ setLengthInSec(int)
+comment3.params=
+comment3.target=java.lang.String\ convertToMinSec()
+comment4.params=
+comment4.target=java.lang.String\ getMinutes()
+comment5.params=
+comment5.target=java.lang.String\ getSeconds()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

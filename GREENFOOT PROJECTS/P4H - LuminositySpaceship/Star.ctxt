@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Star
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=Star()
+comment3.params=
+comment3.target=int\ getLuminosity()
+comment4.params=luminosity
+comment4.target=void\ setLuminosity(int)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

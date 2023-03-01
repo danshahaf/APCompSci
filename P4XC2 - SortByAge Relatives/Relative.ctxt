@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=relation\ age
+comment0.target=Relative(java.lang.String,\ int)
+comment1.params=
+comment1.target=int\ getAge()
+comment2.params=
+comment2.target=java.lang.String\ getRelation()
+numComments=3

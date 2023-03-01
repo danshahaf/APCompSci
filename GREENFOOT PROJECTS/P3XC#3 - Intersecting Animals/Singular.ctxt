@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Singular
+comment1.params=
+comment1.target=Singular()
+comment2.params=speed
+comment2.target=Singular(int)
+comment3.params=
+comment3.target=void\ act()
+numComments=4

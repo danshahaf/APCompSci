@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=firepower\ position
+comment0.target=Alien(int,\ java.lang.String)
+comment1.params=
+comment1.target=int\ getFirepower()
+comment2.params=firepower
+comment2.target=void\ setFirepower(int)
+comment3.params=
+comment3.target=java.lang.String\ getPosition()
+comment4.params=position
+comment4.target=void\ setPosition(java.lang.String)
+numComments=5

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Spacejunk
+comment1.params=
+comment1.target=void\ act()
+comment2.params=altitude
+comment2.target=Spacejunk(int)
+comment3.params=
+comment3.target=int\ getAltitude()
+comment4.params=altitude
+comment4.target=void\ setAltitude(int)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

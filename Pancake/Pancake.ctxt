@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Pancake()
+comment1.params=hasSyrup\ stack\ price
+comment1.target=Pancake(boolean,\ int,\ double)
+comment1.text=public\ Pancake(boolean\ syrupArg,\ int\ stackArg,\ double\ priceArg)\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ System.out.println("The\ 3-arg\ constructor\ has\ been\ called\!");\r\n\ \ \ \ \ \ \ \ hasSyrup\=\ syrupArg;//stores\ the\ instance\ variable\ of\ hasSyrup\r\n\ \ \ \ \ \ \ \ stack\ \=\ stackArg;\r\n\ \ \ \ \ \ \ \ price\ \=\ priceArg;\r\n}
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

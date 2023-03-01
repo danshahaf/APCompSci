@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Algebra1()
+comment1.params=teacher\ enrollment
+comment1.target=Algebra1(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ checkEnrollment()
+numComments=3

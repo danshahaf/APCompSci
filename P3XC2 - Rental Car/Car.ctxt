@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Car()
+comment1.params=MPG\ isInStock\ maker
+comment1.target=Car(double,\ boolean,\ java.lang.String)
+comment2.params=
+comment2.target=double\ getMPG()
+comment3.params=MPG
+comment3.target=void\ setMPG(double)
+numComments=4
